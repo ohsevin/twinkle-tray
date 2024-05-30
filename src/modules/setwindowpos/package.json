@@ -23,6 +23,6 @@
     "setwindowpos.cc"
   ],
   "devDependencies": {
-    "node-gyp": "^7.1.0"
+    "node-gyp": "^10.1.0"
   }
 }
